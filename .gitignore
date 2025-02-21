@@ -10,6 +10,7 @@ trocr_env/
 checkpoints/
 trOCR_v2/
 
+
 # Dataset-related files
 dataset/fonts/
 dataset/nhcd/
