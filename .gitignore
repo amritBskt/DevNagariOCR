@@ -1,0 +1,20 @@
+# Conda and virtual environment
+.conda/
+.condarc
+trocr_env/
+
+# Jupyter Notebook auto-saves
+.ipynb_checkpoints/
+
+# Checkpoints (if used for model saving)
+checkpoints/
+trOCR_v2/
+
+# Dataset-related files
+dataset/fonts/
+dataset/nhcd/
+
+
+# Miscellaneous (if this is a folder)
+Baskota/
+
